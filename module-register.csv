@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+module_id,manufacturer,model,cell_type,rated_power_wstp,vmp_stc_v,imp_stc_a,voc_stc_v,isc_stc_a,efficiency_percent,temperature_coefficient_voc_percent_per_c,temperature_coefficient_pmax_percent_per_c,length_mm,width_mm,weight_kg,notes

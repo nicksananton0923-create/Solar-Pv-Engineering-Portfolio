@@ -1,0 +1,8 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+project_id,project_name,location,dc_capacity_kwp,ac_capacity_kw,inverter_type,modules_count,module_rating_wp,annual_energy_estimate_mwh,performance_ratio,commissioning_date,status,notes
+PRJ-001,Fictional Plant A Solar,Western-Region,1000,800,String,2000,500,1440,0.80,2026-03-15,Planned,Illustrative example project
+PRJ-002,Fictional Plant B Solar,Northern-Region,5000,4000,Central,10000,500,7200,0.80,2026-06-01,Planned,Illustrative larger project
+PRJ-003,Fictional Plant C Solar,Southern-Region,250,200,String,500,500,360,0.80,2026-04-10,Planned,Illustrative smaller project

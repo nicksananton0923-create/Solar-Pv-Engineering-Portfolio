@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+string_id,inverter_id,module_id,modules_per_string,parallel_strings_per_mppt,mppt_number,voc_cold_v,vmpp_hot_v,isc_total_a,notes

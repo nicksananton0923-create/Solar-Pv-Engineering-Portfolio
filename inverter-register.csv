@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+inverter_id,manufacturer,model,type,max_dc_power_kw,max_dc_voltage_v,mppt_voltage_range_v_min,mppt_voltage_range_v_max,max_dc_current_a,max_ac_power_kw,ac_voltage_v,ac_frequency_hz,european_efficiency_percent,notes
